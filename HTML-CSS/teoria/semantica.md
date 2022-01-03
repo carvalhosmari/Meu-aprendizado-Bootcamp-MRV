@@ -61,3 +61,15 @@
     
 
   - target: ajuda a abrir os links em outra página do navegador, utilizando o prefixo '_blank'.
+  
+- ##### < img >:
+
+  é utilizada para inserir imagens na pagina e contem 2 atributos próprios:
+
+  - src: é de uso obrigatório e indica onde a imagem que será inserida está;
+
+  - alt: não é obrigatório, mas é de boa prática que se utilize, pois ele dá uma descrição da imagem, caso a mesma não carregue.
+
+    sintaxe: < img src = "caminho_imagem" alt = "descrição da imagem" >
+
+    
