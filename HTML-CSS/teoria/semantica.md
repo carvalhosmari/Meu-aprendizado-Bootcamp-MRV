@@ -32,4 +32,32 @@
 
 - ##### < footer >:
 
-  representa o rodapé do conteúdo ou de parte dele, pois é aceito dentro de vários elementos, como por exemplo as informações de autor e links relacionados a um article.
+  representa o rodapé do conteúdo ou de parte dele, pois é aceito dentro de vários elementos, como por exemplo as informações de autor e links relacionados a um article;
+  
+- ##### < h >:
+
+  indica a importância do título, sendo h1 o mais importante e o h6 o menos importante. Boas práticas: utilizar apenas um h1 por página, pois ele identifica o objetivo da mesma;
+
+- ##### < p >:
+
+  é utilizado para inserção de textos, que ao contrário dos títulos, são mais densos. O elemento < p > representa um parágrafo, mas além de textos podemos adicionar imagens, código, vídeos etc.
+
+  Sintaxe: < p >Conteudo do artigo </ p >
+
+- ##### < a >:
+
+  este elemento representa um hiperlink e é ele que interliga vários conteúdos e página na web.
+
+  Ele possui vários atributos, mas os mais importantes são:
+
+  - href: que é o hiperlink para onde a âncora deve apontar, podendo ser uma página do seu ou de outro site, um email e até mesmo um telefone;
+
+    ex:
+
+    <a href="linkedin.com/in/mariane-carvalho-6690931b3/">LinkedIn</a>
+
+    <a href="mailto:mscarvall@gmail.com">Email</a>
+
+    
+
+  - target: ajuda a abrir os links em outra página do navegador, utilizando o prefixo '_blank'.
