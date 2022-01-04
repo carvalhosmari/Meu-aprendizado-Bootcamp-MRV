@@ -72,4 +72,10 @@
 
     sintaxe: < img src = "caminho_imagem" alt = "descrição da imagem" >
 
-    
+- ##### Listas:
+
+  Servem para agrupar uma coleção de itens e os tipos são:
+
+  - < ul >: cria uma lista não ordenada, ou seja, cria uma lista em que a ordem dos itens não é importante e é representada com pontos, círculos ou quadrados;
+  - < ol >: cria listas ordenadas, onde a ordem dos itens importa, portanto são representadas com números, letras ou algarismos romanos.
+  - < li >: representa um item dentro dessas listas e pode conter vários tipos de conteúdo, como por exemplo parágrafos, imagens e até outras listas.
