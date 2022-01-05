@@ -1,0 +1,42 @@
+body {
+background: #C6CCDE;
+}
+
+.post {
+    background: #989DAB;
+    padding: 15px;
+    border: 2px dotted #55576B;
+    margin-bottom: 15px;
+}
+
+#title  {
+    color: #0D1761;
+    font-size: 40px;
+}
+
+.subtitle {
+    font-size: 26px;
+    color: #0D1761;
+}
+
+.post_title {
+    font-size: 20px;
+    color: #0D1761;
+    font-style: italic;
+    margin: 0;  /* zerando a margem padrão do navegador */
+    margin-bottom: 15px;    /* acrescenta apenas uma margem abaixo */
+}
+
+.page_img {
+    border-radius: 50%  ;    /* deixa a foto em formato circular */
+    border: 1px dotted #55576B;
+}
+
+.post_content {
+    margin: 0;  /* zerando a margem padrão do navegador */
+    margin-bottom: 15px;    /* acrescenta apenas uma margem abaixo */
+}
+
+.post_img {
+    margin-bottom: 15px;
+}
