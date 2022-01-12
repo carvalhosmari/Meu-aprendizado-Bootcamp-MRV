@@ -57,5 +57,10 @@ body {
     font-size: 12px;
     list-style-type: none;
     padding-left: 15px;
+    display: flex;
+}
+
+.contact_list > li {
+    margin-right: 10px;
 }
 
