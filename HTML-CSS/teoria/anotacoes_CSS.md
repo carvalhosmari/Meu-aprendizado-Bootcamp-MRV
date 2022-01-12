@@ -85,8 +85,14 @@
 
   utilizado para alinhar o texto (right, left, center, justify)
 
-  ​	
-
-## *Documentação oficial*:
+  
+  
+  ### *Documentação oficial e links úteis:*	
 
 https://developer.mozilla.org/pt-BR/docs/Web/CSS
+
+https://htmlcolorcodes.com/
+
+https://color.adobe.com/pt/create/color-wheel
+
+https://www.pexels.com/pt-br/
