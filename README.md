@@ -14,3 +14,6 @@ Neste repositório encontra-se todas as anotações e exercícios realizados dur
 1 - HTML5 e CSS3 <br>
 
 2 - Bootstrap <br>
+
+3 - Javascript <br>
+
